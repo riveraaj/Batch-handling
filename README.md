@@ -26,4 +26,4 @@ This is a project made in console to manage batches of files through previous co
 ## Author Info
 
 - Linkedin - [jriveraa](https://www.linkedin.com/in/jriveraaa/)
-- Website - [Jonathan R.V](https://jamesqquick.com)
+- Website - [Jonathan R.V](https://riveraaj.github.io/Portfolio/)
